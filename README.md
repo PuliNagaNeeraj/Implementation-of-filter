@@ -122,52 +122,27 @@ plt.title('Laplacian Operator')
 
 ## OUTPUT:
 ### 1. Smoothing Filters
-</br>
 
-i) Using Averaging Filter
-</br>
-</br>
-</br>
-</br>
-</br>
+#### i) Using Averaging Filter
+![dip-5 1](https://github.com/PuliNagaNeeraj/Implementation-of-filter/assets/138849173/4ee03b7c-a93d-4d67-aa26-8f9d804f0839)
 
-ii) Using Weighted Averaging Filter
-</br>
-</br>
-</br>
-</br>
-</br>
 
-iii) Using Gaussian Filter
-</br>
-</br>
-</br>
-</br>
-</br>
+#### ii) Using Weighted Averaging Filter
+![dip-5 2](https://github.com/PuliNagaNeeraj/Implementation-of-filter/assets/138849173/0ac3340d-5cde-4095-a8b0-e9ebd772cdad)
 
-iv) Using Median Filter
-</br>
-</br>
-</br>
-</br>
-</br>
+#### iii) Using Gaussian Filter
+![dip-5 3](https://github.com/PuliNagaNeeraj/Implementation-of-filter/assets/138849173/2ef76e8f-3b14-443a-a38c-78cc42903c42)
+
+#### iv) Using Median Filter
+![dip-5 4](https://github.com/PuliNagaNeeraj/Implementation-of-filter/assets/138849173/13595537-d7ff-4f45-b557-48521870d209)
 
 ### 2. Sharpening Filters
-</br>
 
-i) Using Laplacian Kernal
-</br>
-</br>
-</br>
-</br>
-</br>
+#### i) Using Laplacian Kernal
+![dip-5 5](https://github.com/PuliNagaNeeraj/Implementation-of-filter/assets/138849173/da3631cb-b6d0-446b-adf2-c198a0bd9591)
 
-ii) Using Laplacian Operator
-</br>
-</br>
-</br>
-</br>
-</br>
+#### ii) Using Laplacian Operator
+![dip-5 6](https://github.com/PuliNagaNeeraj/Implementation-of-filter/assets/138849173/6bc80a5c-957e-4d31-9c71-d22a77175fca)
 
 ## Result:
 Thus the filters are designed for smoothing and sharpening the images in the spatial domain.
